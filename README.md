@@ -1,4 +1,4 @@
-This project is about using opencv to annotate images, I did a single image annotation using different shapes.
+This project is about using opencv to annotate images, I did a single image annotation using different shapes
 
 ## Visuals
 ![Actual image ](https://user-images.githubusercontent.com/42742468/178806057-29f719aa-6896-49f4-8910-40130aef979f.jpg)
